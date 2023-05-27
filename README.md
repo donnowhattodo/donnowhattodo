@@ -1,4 +1,4 @@
-# Hello, I'm Asad 👋
+# Hello, I'm Kazi Asad 👋
 
 I'm a passionate newcomer to the field of Natural Language Processing (NLP) with a solid background in computer science. I have a deep love for creating innovative solutions that leverage the power of language understanding. Alongside NLP, I also have experience in web development, machine learning, and deep learning
 

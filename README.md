@@ -4,7 +4,7 @@ I'm a passionate newcomer to the field of Natural Language Processing (NLP) with
 
 ## 🔭 Current Projects
 
-- Project 1:  Large Language Model Distillation (BERT-BASE-UNCASED & BERT-LARGE-UNCASED).
+- Project 1:  Large Language Model Distillation(Custom model) (BERT-BASE-UNCASED & BERT-LARGE-UNCASED).
 - Project 2: Training a critical binary classification dataset on different Neural networks(Mysterious one). 
 
 ## 🌱 Learning

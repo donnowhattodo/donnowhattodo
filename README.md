@@ -4,8 +4,10 @@ I'm a passionate newcomer to the field of Natural Language Processing (NLP) with
 
 ## 🔭 Current Projects
 
-- Project 1:  Large Language Model Distillation(Custom model) (BERT-BASE-UNCASED & BERT-LARGE-UNCASED).
-- Project 2: Training a critical binary classification dataset on different Neural networks(Mysterious one). 
+- Project 1:  Large Language Model Distillation(Custom model [lastBERT]) (BERT-BASE-UNCASED & BERT-LARGE-UNCASED).
+- Project 2: Community Detection in Graphs vs. Hypergraphs for Gene Function Prediction
+- Project 3: Automated Detection of Vulnerable Code Snippets in Open Source Repositories Using NLP
+- Project 4: Bone Fracture Classification using Vision Transformers
 
 ## 🌱 Learning
 

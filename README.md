@@ -33,6 +33,6 @@ I'm a passionate newcomer to the field of Natural Language Processing (NLP) with
 - Playing FIFA: I enjoy immersing myself in the virtual world of football through the FIFA video game, competing with friends or AI opponents.
 - Watching Anime: I find pleasure in watching anime, appreciating the captivating storytelling, unique art styles, and the blend of fantasy and reality it offers.
 
-<!-- ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=donnowhattodo) -->
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=donnowhattodo)
 
 

@@ -1,38 +1,48 @@
-# Hello, I'm Kazi Asad 👋
 
-I'm a passionate newcomer to the field of Natural Language Processing (NLP) with a solid background in computer science. I have a deep love for creating innovative solutions that leverage the power of language understanding. Alongside NLP, I also have experience in web development, Data Science, machine learning, and deep learning
+# Hi there, I'm Kazi Asad 👋
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;NLP+and+ML+enthusiast;Building+solutions+for+tomorrow!&center=true&width=500&height=50)
 
-## 🔭 Current Projects
+I'm Asad, an NLP and machine learning enthusiast with a strong foundation in computer science and hands-on research experience. My journey spans across **Natural Language Processing(NLP)**, machine learning, deep learning, and web development—each step driven by a passion for creating impactful solutions that harness the power of language and data. I’m always eager to explore innovative ways to apply these technologies to real-world challenges.
 
-- Project 1:  Large Language Model Distillation(Custom model [lastBERT]) (BERT-BASE-UNCASED & BERT-LARGE-UNCASED).
-- Project 2: Community Detection in Graphs vs. Hypergraphs for Gene Function Prediction
-- Project 3: Automated Detection of Vulnerable Code Snippets in Open Source Repositories Using NLP
-- Project 4: Bone Fracture Classification using Vision Transformers
+## 🚀 Current Projects
 
-## 🌱 Learning
+- **Model Distillation in NLP**: Crafting a custom language model, `lastBERT`, distilled from BERT-BASE-UNCASED & BERT-LARGE-UNCASED
+- **Community Detection for Gene Prediction**: Comparing graph vs. hypergraph methods in community detection for gene function insights
+- **Automated Code Vulnerability Detection**: Using NLP to spot vulnerabilities in open-source code repositories
+- **Vision Transformers for Medical Imaging**: Classifying bone fractures accurately with advanced Transformer architectures
 
-- Currently immersing myself in the world of NLP algorithms and models..
-- Exploring deep learning frameworks such as TensorFlow and PyTorch for advanced NLP applications.
+## 📝 Undergraduate Research (Under Review)
 
-## 💬 Let's Connect
+- **Do Larger Models Always Perform Better?**  
+  *Exploring Knowledge Distillation for BERT-Based Models*: This project aims to create a smaller, efficient language model, `LastBERT`, using BERT-based knowledge distillation techniques. Our model, with only 29M parameters, retains competitive performance while being lightweight and faster.
 
-- [LinkedIn](https://www.linkedin.com/in/kaziasadcse/)
-- [Twitter](https://twitter.com/ImKaziAsad)
+- **Strengthening Fake News Detection**  
+  *Leveraging SVM and Sophisticated Text Vectorization*: This study evaluates the effectiveness of traditional SVM classifiers with advanced vectorization techniques for fake news detection, challenging the necessity of larger transformer models like BERT in certain text classification scenarios.
 
-## 📫 How to Reach Me
+## 🎯 Always Learning
 
-- Feel free to reach out via email at [kazi.asad@northsouth.edu](mailto:kazi.asad@northsouth.edu).
+- Diving deep into NLP and fine-tuning language models for specialized tasks
+- Mastering TensorFlow and PyTorch for pushing the boundaries of deep learning in NLP
 
-## 🤝 Open to Collaboration
+## 🌐 Let's Connect
 
-- I'm open to collaborating on NLP projects and exploring exciting opportunities in the field.
-- If you have any interesting NLP ideas or projects, let's connect and discuss the possibilities.
+I’m excited to meet others in the field! Let’s discuss ideas, collaborate on projects, or just share tech insights:
 
-## 🌟 Fun Fact
+- **LinkedIn**: [kaziasadcse](https://www.linkedin.com/in/kaziasadcse/)
+- **Twitter**: [@ImKaziAsad](https://twitter.com/ImKaziAsad)
 
-- Playing FIFA: I enjoy immersing myself in the virtual world of football through the FIFA video game, competing with friends or AI opponents.
-- Watching Anime: I find pleasure in watching anime, appreciating the captivating storytelling, unique art styles, and the blend of fantasy and reality it offers.
+📬 You can also reach me at [kazi.asad@northsouth.edu](mailto:kazi.asad@northsouth.edu).
 
-<!-- ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=donnowhattodo) -->
+## 🤝 Open for Collaboration
 
+Looking to work on impactful NLP, ML, or deep learning projects? I’m always open to exploring innovative ideas and collaborating on exciting new ventures.
+
+---
+
+## 🌟 Fun Facts
+
+- **Animeholic** 🎥: Anime inspires me with its unique storytelling and art, sparking creativity in unexpected ways.
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=donnowhattodo)  
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=donnowhattodo.donnowhattodo)
 

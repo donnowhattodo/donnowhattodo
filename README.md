@@ -4,7 +4,8 @@
 
 I'm Asad, an NLP and machine learning enthusiast with a strong foundation in computer science and hands-on research experience. My journey spans across **Natural Language Processing(NLP)**, machine learning, deep learning, and web development—each step driven by a passion for creating impactful solutions that harness the power of language and data. I’m always eager to explore innovative ways to apply these technologies to real-world challenges.
 
-## 🚀 Current Projects
+## 🚧 Ongoing Projects
+![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 - **Model Distillation in NLP**: Crafting a custom language model, `lastBERT`, distilled from BERT-BASE-UNCASED & BERT-LARGE-UNCASED
 - **Community Detection for Gene Prediction**: Comparing graph vs. hypergraph methods in community detection for gene function insights

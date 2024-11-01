@@ -15,7 +15,7 @@ I'm Asad, an NLP and machine learning enthusiast with a strong foundation in com
 ## 📝 Undergraduate Research (Under Review)
 
 - **Do Larger Models Always Perform Better?**  
-  *Exploring Knowledge Distillation for BERT-Based Models*: This project aims to create a smaller, efficient language model, `LastBERT`, using BERT-based knowledge distillation techniques. Our model, with only 29M parameters, retains competitive performance while being lightweight and faster.
+  *Exploring Knowledge Distillation for BERT-Based Models*: This project aims to create a smaller, efficient language model, `LastBERT`, using BERT-based knowledge distillation techniques. Our model, with only 29M parameters, retains competitive performance while being lightweight and faster. [Paper Link](https://www.medrxiv.org/content/10.1101/2024.10.30.24316411v1)
 
 - **Strengthening Fake News Detection**  
   *Leveraging SVM and Sophisticated Text Vectorization*: This study evaluates the effectiveness of traditional SVM classifiers with advanced vectorization techniques for fake news detection, challenging the necessity of larger transformer models like BERT in certain text classification scenarios.

@@ -14,7 +14,7 @@ I'm Asad, an NLP and machine learning enthusiast with a strong foundation in com
 
 ## 📝 Undergraduate Research (Under Review)
 
-- **Do Larger Models Always Perform Better?**  
+- **Larger models yield better results? Streamlined severity classification of ADHD-related concerns using BERT-based knowledge distillation**  - [![Model Card](https://img.shields.io/badge/model-LastBERT-blue)](https://huggingface.co/Peraboom/LastBERT)
   *Exploring Knowledge Distillation for BERT-Based Models*: This project aims to create a smaller, efficient language model, `LastBERT`, using BERT-based knowledge distillation techniques. Our model, with only 29M parameters, retains competitive performance while being lightweight and faster. [LastBERT](https://www.medrxiv.org/content/10.1101/2024.10.30.24316411v1)
 
 - **Strengthening Fake News Detection**  

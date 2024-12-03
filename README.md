@@ -30,7 +30,7 @@ _December 2022 – October 2023_
 - **Larger models yield better results? Streamlined severity classification of ADHD-related concerns using BERT-based knowledge distillation**  - [![Model Card](https://img.shields.io/badge/model-LastBERT-blue)](https://huggingface.co/Peraboom/LastBERT)
   *Exploring Knowledge Distillation for BERT-Based Models*: This project aims to create a smaller, efficient language model, `LastBERT`, using BERT-based knowledge distillation techniques. Our model, with only 29M parameters, retains competitive performance while being lightweight and faster. [LastBERT](https://www.medrxiv.org/content/10.1101/2024.10.30.24316411v1)
 
-- **Strengthening Fake News Detection**  
+- **Strengthening Fake News Detection: Leveraging SVM and Sophisticated Text Vectorization Techniques. Defying BERT?**  
   *Leveraging SVM and Sophisticated Text Vectorization*: This study evaluates the effectiveness of traditional SVM classifiers with advanced vectorization techniques for fake news detection, challenging the necessity of larger transformer models like BERT in certain text classification scenarios.  [FakeNews Detection](https://paperswithcode.com/paper/strengthening-fake-news-detection-leveraging)
 
 

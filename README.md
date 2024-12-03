@@ -25,14 +25,6 @@ _December 2022 – October 2023_
 - Graded assignments, held office hours, and contributed to curriculum development initiatives.
 
 
-## 🚧 Ongoing Projects
-![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-
-- **Model Distillation in NLP**: Crafting a custom language model, `lastBERT`, distilled from BERT-BASE-UNCASED & BERT-LARGE-UNCASED
-- **Community Detection for Gene Prediction**: Comparing graph vs. hypergraph methods in community detection for gene function insights
-- **Automated Code Vulnerability Detection**: Using NLP to spot vulnerabilities in open-source code repositories
-- **Vision Transformers for Medical Imaging**: Classifying bone fractures accurately with advanced Transformer architectures
-
 ## 📝 Puiblications
 
 - **Larger models yield better results? Streamlined severity classification of ADHD-related concerns using BERT-based knowledge distillation**  - [![Model Card](https://img.shields.io/badge/model-LastBERT-blue)](https://huggingface.co/Peraboom/LastBERT)
@@ -40,6 +32,15 @@ _December 2022 – October 2023_
 
 - **Strengthening Fake News Detection**  
   *Leveraging SVM and Sophisticated Text Vectorization*: This study evaluates the effectiveness of traditional SVM classifiers with advanced vectorization techniques for fake news detection, challenging the necessity of larger transformer models like BERT in certain text classification scenarios.  [FakeNews Detection](https://paperswithcode.com/paper/strengthening-fake-news-detection-leveraging)
+
+
+## 🚧 Ongoing Projects
+![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+
+- **Model Distillation in NLP**: Crafting a custom language model, `lastBERT`, distilled from BERT-BASE-UNCASED & BERT-LARGE-UNCASED
+- **Community Detection for Gene Prediction**: Comparing graph vs. hypergraph methods in community detection for gene function insights
+- **Automated Code Vulnerability Detection**: Using NLP to spot vulnerabilities in open-source code repositories
+- **Vision Transformers for Medical Imaging**: Classifying bone fractures accurately with advanced Transformer architectures
 
 
 ## 🚀 Noteable Projects

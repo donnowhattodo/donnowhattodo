@@ -16,6 +16,16 @@ I'm Asad, an NLP and machine learning enthusiast with a strong foundation in com
   **GPA:** 3.53/4.00  
   _Distinction: Cum Laude_
 
+  ## 💼 Working Experience
+
+**Teaching Assistant**  
+*North South University, Dhaka, Bangladesh*  
+_December 2022 – October 2023_
+
+- Assisted professors in course preparation, conducted tutorials, and provided academic support.  
+- Graded assignments, held office hours, and contributed to curriculum development initiatives.
+
+
 ## 🚧 Ongoing Projects
 ![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
@@ -24,13 +34,43 @@ I'm Asad, an NLP and machine learning enthusiast with a strong foundation in com
 - **Automated Code Vulnerability Detection**: Using NLP to spot vulnerabilities in open-source code repositories
 - **Vision Transformers for Medical Imaging**: Classifying bone fractures accurately with advanced Transformer architectures
 
-## 📝 Undergraduate Research (Under Review)
+## 📝 Undergraduate Research (Puiblications || Under Review)
 
 - **Larger models yield better results? Streamlined severity classification of ADHD-related concerns using BERT-based knowledge distillation**  - [![Model Card](https://img.shields.io/badge/model-LastBERT-blue)](https://huggingface.co/Peraboom/LastBERT)
   *Exploring Knowledge Distillation for BERT-Based Models*: This project aims to create a smaller, efficient language model, `LastBERT`, using BERT-based knowledge distillation techniques. Our model, with only 29M parameters, retains competitive performance while being lightweight and faster. [LastBERT](https://www.medrxiv.org/content/10.1101/2024.10.30.24316411v1)
 
 - **Strengthening Fake News Detection**  
   *Leveraging SVM and Sophisticated Text Vectorization*: This study evaluates the effectiveness of traditional SVM classifiers with advanced vectorization techniques for fake news detection, challenging the necessity of larger transformer models like BERT in certain text classification scenarios.  [FakeNews Detection](https://paperswithcode.com/paper/strengthening-fake-news-detection-leveraging)
+
+
+## 🚀 Noteable Projects
+
+### **[Object Detection using YOLOv3](https://github.com/donnowhattodo/ODA_YOLOv3)**
+- Developed an object detection system using YOLOv3 and YOLOv4 models, trained on the COCO dataset with pre-trained COCO weights.  
+- Achieved real-time detection of objects in images and videos, identifying up to 80 distinct classes.
+
+### **[Fake News Detection using SVM with Kernel Trick](https://github.com/donnowhattodo/SVMFakeNews)**
+- Implemented a fake news detection system using Support Vector Machines (SVM) and experimented with various kernel tricks to improve classification accuracy.  
+- Analyzed the impact of different kernels on SVM performance, achieving robust results for detecting fake news.
+
+### **[Classification on Stack Overflow Questions](https://github.com/donnowhattodo/classification-on-stackOverflowQuestion)**
+- Trained a text classification model on a dataset of 60,000 Stack Overflow questions from 2016 to 2020.  
+- Developed a multi-class classifier to categorize questions into three classes: High Quality (HQ), Low Quality with Community Edits (LQ_EDIT), and Low Quality Closed (LQ_CLOSE), supporting efficient content moderation and quality assessment.
+
+### **[RoBERTa Knowledge Distillation](https://github.com/donnowhattodo/DistillationOFRoberta)**
+- Fine-tuned custom RoBERTa models trained on large wiki text datasets for various NLP tasks, including Sentiment Analysis, MRPC, and CoLA.  
+- Demonstrated versatility in applying RoBERTa to diverse natural language processing applications.
+
+### **[Aid-NSU (Social Media Platform)](https://github.com/donnowhattodo/Aid-NSU)**
+- Developed Aid-NSU, a Django-based social platform for North South University students, enabling content sharing, opinion expression, and assistance on various topics in a supportive campus environment.  
+- Implemented features such as real-time comments and chat to foster instant communication and collaboration (Note: This platform was not released).
+
+### **[Image Classification Using Vision Transformer (ViT)](https://github.com/donnowhattodo/Bone_fracture_ViT-)**
+- Developed a deep learning model using the Vision Transformer (ViT) architecture for classifying medical X-ray images.  
+- Implemented data preprocessing, model training, and validation, achieving high accuracy in distinguishing between positive and negative cases.  
+- Utilized the MURA dataset and improved performance through transfer learning with the ViT model.
+
+  
 
 
 ## 🎯 Always Learning

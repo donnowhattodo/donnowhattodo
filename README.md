@@ -1,5 +1,6 @@
 
 # Hi there, I'm Kazi Asad 👋
+#### Technical Skills: Python, SQL, Pytorch, Tensorflow, 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;NLP+and+ML+enthusiast;Building+solutions+for+tomorrow!&center=true&width=500&height=50)
 
 I'm Asad, an NLP and machine learning enthusiast with a strong foundation in computer science and hands-on research experience. My journey spans across **Natural Language Processing(NLP)**, machine learning, deep learning, and web development—each step driven by a passion for creating impactful solutions that harness the power of language and data. I’m always eager to explore innovative ways to apply these technologies to real-world challenges.
@@ -16,7 +17,7 @@ I'm Asad, an NLP and machine learning enthusiast with a strong foundation in com
   **GPA:** 3.53/4.00  
   _Distinction: Cum Laude_
 
-  ## 💼 Working Experience
+## 💼 Working Experience
 
 **Teaching Assistant**  
 *North South University, Dhaka, Bangladesh*  

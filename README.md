@@ -12,8 +12,7 @@ I'm Asad, an NLP and machine learning enthusiast with a strong foundation in com
   _July 2024 – Present_
 
 - **B.S. in Computer Science and Engineering**  
-  _May 2019 – June 2023_  
-  **GPA:** 3.53/4.00  
+  _May 2019 – June 2023_   
   _Distinction: Cum Laude_
 
 ## 💼 Working Experience

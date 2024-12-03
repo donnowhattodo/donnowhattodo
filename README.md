@@ -34,7 +34,7 @@ _December 2022 – October 2023_
 - **Automated Code Vulnerability Detection**: Using NLP to spot vulnerabilities in open-source code repositories
 - **Vision Transformers for Medical Imaging**: Classifying bone fractures accurately with advanced Transformer architectures
 
-## 📝 Undergraduate Research (Puiblications || Under Review)
+## 📝 Puiblications
 
 - **Larger models yield better results? Streamlined severity classification of ADHD-related concerns using BERT-based knowledge distillation**  - [![Model Card](https://img.shields.io/badge/model-LastBERT-blue)](https://huggingface.co/Peraboom/LastBERT)
   *Exploring Knowledge Distillation for BERT-Based Models*: This project aims to create a smaller, efficient language model, `LastBERT`, using BERT-based knowledge distillation techniques. Our model, with only 29M parameters, retains competitive performance while being lightweight and faster. [LastBERT](https://www.medrxiv.org/content/10.1101/2024.10.30.24316411v1)

@@ -4,6 +4,18 @@
 
 I'm Asad, an NLP and machine learning enthusiast with a strong foundation in computer science and hands-on research experience. My journey spans across **Natural Language Processing(NLP)**, machine learning, deep learning, and web development—each step driven by a passion for creating impactful solutions that harness the power of language and data. I’m always eager to explore innovative ways to apply these technologies to real-world challenges.
 
+## 🎓 Education
+
+**[North South University](https://www.northsouth.edu)**, Dhaka, Bangladesh  
+
+- **M.S. in Computer Science and Engineering**  
+  _July 2024 – Present_
+
+- **B.S. in Computer Science and Engineering**  
+  _May 2019 – June 2023_  
+  **GPA:** 3.53/4.00  
+  _Distinction: Cum Laude_
+
 ## 🚧 Ongoing Projects
 ![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 

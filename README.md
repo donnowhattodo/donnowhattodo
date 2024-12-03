@@ -18,13 +18,13 @@ I'm Asad, an NLP and machine learning enthusiast with a strong foundation in com
   *Exploring Knowledge Distillation for BERT-Based Models*: This project aims to create a smaller, efficient language model, `LastBERT`, using BERT-based knowledge distillation techniques. Our model, with only 29M parameters, retains competitive performance while being lightweight and faster. [LastBERT](https://www.medrxiv.org/content/10.1101/2024.10.30.24316411v1)
 
 - **Strengthening Fake News Detection**  
-  *Leveraging SVM and Sophisticated Text Vectorization*: This study evaluates the effectiveness of traditional SVM classifiers with advanced vectorization techniques for fake news detection, challenging the necessity of larger transformer models like BERT in certain text classification scenarios.  [FakeNews Detect](https://paperswithcode.com/paper/strengthening-fake-news-detection-leveraging)
+  *Leveraging SVM and Sophisticated Text Vectorization*: This study evaluates the effectiveness of traditional SVM classifiers with advanced vectorization techniques for fake news detection, challenging the necessity of larger transformer models like BERT in certain text classification scenarios.  [FakeNews Detection](https://paperswithcode.com/paper/strengthening-fake-news-detection-leveraging)
 
 
 ## 🎯 Always Learning
 
 - Diving deep into NLP and fine-tuning language models for specialized tasks
-- Mastering TensorFlow and PyTorch for pushing the boundaries of deep learning in NLP
+- Mastering TensorFlow and PyTorch to push the boundaries of deep learning in NLP
 
 ## 🌐 Let's Connect
 

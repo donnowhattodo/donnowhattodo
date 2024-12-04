@@ -37,7 +37,6 @@ _December 2022 – October 2023_
 ## 🚧 Ongoing Projects
 ![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
-- **Model Distillation in NLP**: Crafting a custom language model, `lastBERT`, distilled from BERT-BASE-UNCASED & BERT-LARGE-UNCASED
 - **Community Detection for Gene Prediction**: Comparing graph vs. hypergraph methods in community detection for gene function insights
 - **Automated Code Vulnerability Detection**: Using NLP to spot vulnerabilities in open-source code repositories
 - **Vision Transformers for Medical Imaging**: Classifying bone fractures accurately with advanced Transformer architectures
@@ -70,7 +69,18 @@ _December 2022 – October 2023_
 - Implemented data preprocessing, model training, and validation, achieving high accuracy in distinguishing between positive and negative cases.  
 - Utilized the MURA dataset and improved performance through transfer learning with the ViT model.
 
-  
+
+## 🧠 Research Interests
+
+My research interests revolve around **Natural Language Processing (NLP)** and **Knowledge Distillation**, with a commitment to applying advanced machine learning techniques to solve real-world challenges. Key areas of focus include:
+
+- **Knowledge Distillation for Efficient NLP Models**: Investigating methods to compress large language models, such as RoBERTa, into smaller and faster variants while retaining their performance. My project on *RoBERTa Knowledge Distillation* and also my paper regarding *lastBERT* highlights the application of these techniques to tasks like sentiment analysis and textual entailment.  
+- **Automated Code Vulnerability Detection**: Leveraging NLP techniques to detect vulnerabilities in open-source code repositories, ensuring software security and reliability. This involves applying tokenization, embedding strategies, and transformer models to understand and analyze code semantics.  
+- **Text Classification and Quality Assessment**: Creating systems to classify and evaluate textual data, as demonstrated in my project *Classification on Stack Overflow Questions*, where multi-class classifiers support content moderation and quality assurance.  
+- **Transformer Architectures in NLP**: Fine-tuning state-of-the-art models like BERT, codeBERT for diverse applications, while exploring innovative approaches to optimize their performance and scalability.  
+- **Interdisciplinary Applications of NLP**: Combining NLP with other domains to address real-world problems, such as applying *Aid-NSU* for academic collaboration and integrating NLP with medical imaging workflows for enhanced diagnostics.
+
+I am particularly passionate about utilizing NLP to enhance software security, improve computational efficiency, and solve complex interdisciplinary problems.
 
 
 ## 🎯 Always Learning

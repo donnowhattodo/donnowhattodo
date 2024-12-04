@@ -72,7 +72,7 @@ _December 2022 – October 2023_
 
 ## 🧠 Research Interests
 
-My research interests revolve around **Natural Language Processing (NLP)** and **Knowledge Distillation**, with a commitment to applying advanced *machine learning* techniques to solve real-world challenges. Key areas of focus include:
+My research interests revolve around **Natural Language Processing (NLP)** and **Knowledge Distillation**, with a commitment to applying advanced **Machine learning** techniques to solve real-world challenges. Key areas of focus include:
 - **Knowledge Distillation for Efficient NLP Models**: Investigating methods to compress large language models, such as RoBERTa, into smaller and faster variants while retaining their performance. My project on *RoBERTa Knowledge Distillation* and also my paper regarding *lastBERT* highlights the application of these techniques to tasks like sentiment analysis and textual entailment.  
 - **Automated Code Vulnerability Detection**: Leveraging NLP techniques to detect vulnerabilities in open-source code repositories, ensuring software security and reliability. This involves applying tokenization, embedding strategies, and transformer models to understand and analyze code semantics.  
 - **Text Classification and Quality Assessment**: Creating systems to classify and evaluate textual data, as demonstrated in my project *Classification on Stack Overflow Questions*, where multi-class classifiers support content moderation and quality assurance.  

@@ -2,7 +2,7 @@
 # Hi there, I'm Kazi Asad 👋
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+portfolio!;NLP+and+ML+enthusiast;Building+solutions+for+tomorrow!&center=true&width=500&height=50)
 
-I'm Asad, an NLP and machine learning enthusiast with a strong foundation in computer science and hands-on research experience. My journey spans across **Natural Language Processing(NLP)**, machine learning, deep learning, and web development—each step driven by a passion for creating impactful solutions that harness the power of language and data. I’m always eager to explore innovative ways to apply these technologies to real-world challenges.
+I'm Asad, an NLP and machine learning researcher with a strong foundation in computer science and hands-on research experience. My journey spans across **Natural Language Processing(NLP)**, machine learning, deep learning, and web development—each step driven by a passion for creating impactful solutions that harness the power of language and data. I’m always eager to explore innovative ways to apply these technologies to real-world challenges.
 
 ## 🎓 Education
 
@@ -28,7 +28,7 @@ _December 2022 – October 2023_
 ## 📝 Puiblications
 
 - **Larger models yield better results? Streamlined severity classification of ADHD-related concerns using BERT-based knowledge distillation**  - [![Model Card](https://img.shields.io/badge/model-LastBERT-blue)](https://huggingface.co/Peraboom/LastBERT)
-  *Exploring Knowledge Distillation for BERT-Based Models*: This project aims to create a smaller, efficient language model, `LastBERT`, using BERT-based knowledge distillation techniques. Our model, with only 29M parameters, retains competitive performance while being lightweight and faster. [LastBERT](https://www.medrxiv.org/content/10.1101/2024.10.30.24316411v1)
+  *Exploring Knowledge Distillation for BERT-Based Models*: This project aims to create a smaller, efficient language model, `LastBERT`, using BERT-based knowledge distillation techniques. Our model, with only 29M parameters, retains competitive performance while being lightweight and faster. [LastBERT](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315829)
 
 - **Strengthening Fake News Detection: Leveraging SVM and Sophisticated Text Vectorization Techniques. Defying BERT?**  
   *Leveraging SVM and Sophisticated Text Vectorization*: This study evaluates the effectiveness of traditional SVM classifiers with advanced vectorization techniques for fake news detection, challenging the necessity of larger transformer models like BERT in certain text classification scenarios.  [FakeNews Detection](https://paperswithcode.com/paper/strengthening-fake-news-detection-leveraging)

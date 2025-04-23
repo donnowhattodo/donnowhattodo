@@ -38,7 +38,7 @@ _December 2022 – October 2023_
 ![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 - **Community Detection for Gene Prediction**: Comparing graph vs. hypergraph methods in community detection for gene function insights
-- **Automated Code Vulnerability Detection**: Using NLP to spot vulnerabilities in open-source code repositories
+- **Hyperspectral Image Reconstruction using PCA & Residual U-Net**: Training a Residual U-Net with spectral normalization to reconstruct full-spectrum HSIs
 - **Vision Transformers for Medical Imaging**: Classifying bone fractures accurately with advanced Transformer architectures
 
 
@@ -51,6 +51,14 @@ _December 2022 – October 2023_
 ### **[Fake News Detection using SVM with Kernel Trick](https://github.com/donnowhattodo/SVMFakeNews)**
 - Implemented a fake news detection system using Support Vector Machines (SVM) and experimented with various kernel tricks to improve classification accuracy.  
 - Analyzed the impact of different kernels on SVM performance, achieving robust results for detecting fake news.
+
+
+### **[Hyperspectral Image Reconstruction using PCA & Residual U-Net](https://github.com/donnowhattodo/HSI_reconstruction)**
+Built a complete pipeline for hyperspectral image (HSI) reconstruction using dimensionality reduction and deep learning.
+-  Applied global PCA to reduce 31 spectral bands to 3 principal components.
+-  Trained a Residual U-Net with spectral normalization to reconstruct full-spectrum HSIs.
+-  Evaluated using PSNR, SSIM, and SAM on benchmark datasets (CZ_hsdb & Indian Pines).
+
 
 ### **[Classification on Stack Overflow Questions](https://github.com/donnowhattodo/classification-on-stackOverflowQuestion)**
 - Trained a text classification model on a dataset of 60,000 Stack Overflow questions from 2016 to 2020.  

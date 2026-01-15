@@ -2,7 +2,7 @@
 # Hi there, I'm Kazi Asad 👋
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+portfolio!;NLP+and+ML+enthusiast;Building+solutions+for+tomorrow!&center=true&width=500&height=50)
 
-I'm Asad, an NLP and machine learning researcher with a strong foundation in computer science and hands-on research experience. My journey spans across **Natural Language Processing (NLP)**, machine learning, deep learning, and web development—each step driven by a passion for creating impactful solutions that harness the power of language and data. I’m always eager to explore innovative ways to apply these technologies to real-world challenges.
+I'm Asad, an NLP and machine learning researcher with a strong foundation in computer science and hands-on research experience. My journey spans across **Natural Language Processing (NLP)**, machine learning, deep learning, and Computer vision, driven by a passion for creating impactful solutions that harness the power of language and data. I’m always eager to explore innovative ways to apply these technologies to real-world challenges.
 
 My work focuses on building AI systems that are **efficient, secure, and interpretable**, with interests spanning healthcare applications, cybersecurity, and graph-based learning. I enjoy turning research ideas into reproducible implementations, writing clean and well-documented code, and experimenting with practical evaluation setups for modern AI systems. Outside of research, I regularly practice problem-solving to sharpen my algorithmic thinking and engineering skills.
 

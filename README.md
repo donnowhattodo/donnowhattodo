@@ -1,10 +1,18 @@
 
 # Hi there, I'm Kazi Asad 👋
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+portfolio!;NLP+and+ML+enthusiast;Building+solutions+for+tomorrow!&center=true&width=500&height=50)
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+portfolio!;NLP+and+ML+Researcher;Building+solutions+for+tomorrow!&center=true&width=500&height=50)
 
 I'm Asad, an NLP and machine learning researcher with a strong foundation in computer science and hands-on research experience. My journey spans across **Natural Language Processing (NLP)**, machine learning, deep learning, and Computer vision, driven by a passion for creating impactful solutions that harness the power of language and data. I’m always eager to explore innovative ways to apply these technologies to real-world challenges.
 
 My work focuses on building AI systems that are **efficient, secure, and interpretable**, with interests spanning healthcare applications, cybersecurity, and graph-based learning. I enjoy turning research ideas into reproducible implementations, writing clean and well-documented code, and experimenting with practical evaluation setups for modern AI systems. Outside of research, I regularly practice problem-solving to sharpen my algorithmic thinking and engineering skills.
+
+<div align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,numpy,jupyter,matplotlib,scikitlearn,pytorch,tensorflow,opencv,git,github,linux&perline=12" />
+  <br/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface,langchain,llamaindex,pinecone,qdrant,ollama,chatgpt&perline=12" />
+</div>
+
 
 ## 🎓 Education
 
@@ -99,6 +107,7 @@ My research interests revolve around **Natural Language Processing (NLP)** and *
 I am particularly passionate about utilizing NLP to enhance software security, improve computational efficiency, and solve complex interdisciplinary problems.
 
 
+
 ## 🎯 Always Learning
 
 - Diving deep into NLP and fine-tuning language models for specialized tasks
@@ -120,7 +129,30 @@ I’m excited to meet others in the field! Let’s discuss ideas, collaborate on
 
 ## 🤝 Open for Collaboration
 
-Looking to work on impactful NLP, ML, or deep learning projects? I’m always open to exploring innovative ideas and collaborating on exciting new ventures.
+Looking to work on impactful **NLP, ML, deep learning, or LLM/RAG** projects?
+I’m always open to exploring innovative ideas and collaborating on exciting ventures.
+
+<div align="center">
+
+<!-- Clean summary banner -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donnowhattodo&theme=tokyonight" />
+
+<br/><br/>
+
+<!-- Main visuals -->
+<a href="https://github-profile-svg.vercel.app/api/profile?username=donnowhattodo&mode=glass">
+  <img src="https://github-profile-svg.vercel.app/api/profile?username=donnowhattodo&mode=glass" height="170" />
+</a>
+<img src="https://streak-stats.demolab.com/?user=donnowhattodo&theme=tokyonight" height="170" />
+
+<br/><br/>
+
+<!-- Small badges row -->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=donnowhattodo.donnowhattodo" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/github/stars/donnowhattodo/somerepo" />
+
+</div>
 
 ---
 
@@ -128,6 +160,4 @@ Looking to work on impactful NLP, ML, or deep learning projects? I’m always op
 
 - **Animeholic** 🎥: Anime inspires me with its unique storytelling and art, sparking creativity in unexpected ways.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=donnowhattodo)  
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=donnowhattodo.donnowhattodo)
 

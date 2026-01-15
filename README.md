@@ -2,7 +2,9 @@
 # Hi there, I'm Kazi Asad 👋
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+portfolio!;NLP+and+ML+enthusiast;Building+solutions+for+tomorrow!&center=true&width=500&height=50)
 
-I'm Asad, an NLP and machine learning researcher with a strong foundation in computer science and hands-on research experience. My journey spans across **Natural Language Processing(NLP)**, machine learning, deep learning, and web development—each step driven by a passion for creating impactful solutions that harness the power of language and data. I’m always eager to explore innovative ways to apply these technologies to real-world challenges.
+I'm Asad, an NLP and machine learning researcher with a strong foundation in computer science and hands-on research experience. My journey spans across **Natural Language Processing (NLP)**, machine learning, deep learning, and web development—each step driven by a passion for creating impactful solutions that harness the power of language and data. I’m always eager to explore innovative ways to apply these technologies to real-world challenges.
+
+My work focuses on building AI systems that are **efficient, secure, and interpretable**, with interests spanning healthcare applications, cybersecurity, and graph-based learning. I enjoy turning research ideas into reproducible implementations, writing clean and well-documented code, and experimenting with practical evaluation setups for modern AI systems. Outside of research, I regularly practice problem-solving to sharpen my algorithmic thinking and engineering skills.
 
 ## 🎓 Education
 
@@ -24,23 +26,30 @@ _December 2022 – October 2023_
 - Assisted professors in course preparation, conducted tutorials, and provided academic support.  
 - Graded assignments, held office hours, and contributed to curriculum development initiatives.
 
+## 🏢 Industry Experience
+
+**MindriftAi** — *IT Operations & Support / AI Pilot Task Delivery (General & Vibe Coding)*  
+- Designed and validated evaluation scenarios for autonomous AI agents.  
+- Ensured tests were logically sound, realistic, and aligned with intended agent behaviors.  
+- Improved agent/model reliability through prompt refinement, curated training examples, and evaluation-driven iteration.
+
 
 ## 📝 Puiblications
 
 - **Larger models yield better results? Streamlined severity classification of ADHD-related concerns using BERT-based knowledge distillation**  - [![Model Card](https://img.shields.io/badge/model-LastBERT-blue)](https://huggingface.co/Peraboom/LastBERT)
   *Exploring Knowledge Distillation for BERT-Based Models*: This project aims to create a smaller, efficient language model, `LastBERT`, using BERT-based knowledge distillation techniques. Our model, with only 29M parameters, retains competitive performance while being lightweight and faster. [LastBERT](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315829)
 
-- **Strengthening Fake News Detection: Leveraging SVM and Sophisticated Text Vectorization Techniques. Defying BERT?**  
-  *Leveraging SVM and Sophisticated Text Vectorization*: This study evaluates the effectiveness of traditional SVM classifiers with advanced vectorization techniques for fake news detection, challenging the necessity of larger transformer models like BERT in certain text classification scenarios.  [FakeNews Detection](https://paperswithcode.com/paper/strengthening-fake-news-detection-leveraging)
+- **Strengthening False Information Propagation Detection: Leveraging SVM and Sophisticated Text Vectorization Techniques in Comparison to BERT**  
+  *Leveraging SVM and Sophisticated Text Vectorization*: This study evaluates the effectiveness of traditional SVM classifiers with advanced vectorization techniques for fake news detection, challenging the necessity of larger transformer models like BERT in certain text classification scenarios.  [FakeNews Detection](https://ieeexplore.ieee.org/document/11171942)
 
 
 ## 🚧 Ongoing Projects
 ![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
-- **Community Detection for Gene Prediction**: Comparing graph vs. hypergraph methods in community detection for gene function insights
-- **Hyperspectral Image Reconstruction using PCA & Residual U-Net**: Training a Residual U-Net with spectral normalization to reconstruct full-spectrum HSIs
-- **Vision Transformers for Medical Imaging**: Classifying bone fractures accurately with advanced Transformer architectures
-
+- **GraB-QLoRA (2025–ongoing) — Private Repository**: Gradient-aware, quantized LoRA framework that unifies adaptive block-wise quantization, L₀-regularized sparsity, and low-rank updates to fine-tune 7B-scale LLMs on commodity GPUs; targets up to ~70% VRAM reduction with near-baseline accuracy across NLP, vision-language, and multilingual tasks.  
+- **Uncovering Higher-Order Functional Modules: Graph vs. Hypergraph Clustering (2024–2025)**: Investigates graph and hypergraph community detection/clustering techniques to uncover higher-order functional relationships between genes, supporting computational biology research.  
+- **Hyperspectral Image Reconstruction using PCA & Residual U-Net**: Training a Residual U-Net with spectral normalization to reconstruct full-spectrum HSIs  
+- **Vision Transformers for Medical Imaging**: Classifying bone fractures accurately with advanced Transformer architectures  
 
 ## 🚀 Noteable Projects
 
@@ -99,8 +108,13 @@ I am particularly passionate about utilizing NLP to enhance software security, i
 
 I’m excited to meet others in the field! Let’s discuss ideas, collaborate on projects, or just share tech insights:
 
-- **LinkedIn**: [kaziasadcse](https://www.linkedin.com/in/kaziasadcse/)
-- **Twitter**: [@ImKaziAsad](https://twitter.com/ImKaziAsad)
+- **LinkedIn**: [kaziasadcse](https://linkedin.com/in/kaziasadcse)
+- **Twitter (X)**: [@ImKaziAsad](https://twitter.com/ImKaziAsad)
+- **GitHub**: [donnowhattodo](https://github.com/donnowhattodo)
+- **Google Scholar**: [Kazi Hafiz Md Asad](https://scholar.google.com/citations?user=24zDLJMAAAAJ&hl=en)
+- **LeetCode**: [ImMasterPutin](https://leetcode.com/u/ImMasterPutin/)
+- **Deep-ML**: [Kazi Asad](https://www.deep-ml.com/profile/7ysd47LWjIM21Ng2NGWvlmxS0Du1)
+
 
 📬 You can also reach me at [kazi.asad@northsouth.edu](mailto:kazi.asad@northsouth.edu).
 

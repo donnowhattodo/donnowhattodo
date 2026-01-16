@@ -134,25 +134,26 @@ I’m always open to exploring innovative ideas and collaborating on exciting ve
 
 <div align="center">
 
-<!-- Clean summary banner -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donnowhattodo&theme=tokyonight" />
+  <!-- Clean summary banner -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donnowhattodo&theme=tokyonight" />
 
-<br/><br/>
+  <br/><br/>
 
-<!-- Main visuals -->
-<a href="https://github-profile-svg.vercel.app/api/profile?username=donnowhattodo&mode=glass">
-  <img src="https://github-profile-svg.vercel.app/api/profile?username=donnowhattodo&mode=glass" height="170" />
-</a>
-<img src="https://streak-stats.demolab.com/?user=donnowhattodo&theme=tokyonight" height="170" />
+  <!-- Main visuals (no glass) -->
+  <a href="https://github-profile-svg.vercel.app/api/profile?username=donnowhattodo&mode=terminal&theme=dark">
+    <img src="https://github-profile-svg.vercel.app/api/profile?username=donnowhattodo&mode=terminal&theme=dark" height="170" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=donnowhattodo&theme=tokyonight" height="170" />
 
-<br/><br/>
+  <br/><br/>
 
-<!-- Small badges row -->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=donnowhattodo.donnowhattodo" />
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img src="https://img.shields.io/github/stars/donnowhattodo/somerepo" />
+  <!-- Small badges row -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=donnowhattodo.donnowhattodo" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/donnowhattodo/somerepo" />
 
 </div>
+
 
 ---
 

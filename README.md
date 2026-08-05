@@ -99,7 +99,7 @@ I value research that is **reproducible, compute-aware, statistically grounded, 
 
 **Kazi Hafiz Md. Asad, Rafi Majid, Md. Tanjeelur Rahman Labib, and Ahsanur Rahman**  
 *Preprint under review, 2026 : First Author*  
-[DOI:](https://doi.org/10.5281/zenodo.21651589)
+[Zenodo: pre-print](https://doi.org/10.5281/zenodo.21651589)
 
 - Designed and implemented a leakage-free benchmark across **nine IntAct MITAB datasets** with held-out evaluation.
 - Compared graph and penalized hypergraph spectral clustering using matched-*k* evaluation, significance testing, null models, and Gene Ontology enrichment.

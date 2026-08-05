@@ -1,11 +1,21 @@
+# Hi, I'm Kazi Hafiz Md. Asad 👋
 
-# Hi there, I'm Kazi Asad 👋
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Efficient+and+Trustworthy+Machine+Learning;NLP+and+LLM+Compression+Researcher;Higher-Order+Representation+Learning;Reproducible+AI+Research&center=true&width=760&height=50)
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+portfolio!;NLP+and+ML+Researcher;Building+solutions+for+tomorrow!&center=true&width=500&height=50)
+## Research Profile
 
-I'm Asad, an NLP and machine learning researcher with a strong foundation in computer science and hands-on research experience. My journey spans across **Natural Language Processing (NLP)**, machine learning, deep learning, and Computer vision, driven by a passion for creating impactful solutions that harness the power of language and data. I’m always eager to explore innovative ways to apply these technologies to real-world challenges.
+I am an **M.S. researcher in Computer Science and Engineering at North South University**, working at the intersection of **efficient and trustworthy natural language processing, large language model adaptation, model compression, and higher-order representation learning**.
 
-My work focuses on building AI systems that are **efficient, secure, and interpretable**, with interests spanning healthcare applications, cybersecurity, and graph-based learning. I enjoy turning research ideas into reproducible implementations, writing clean and well-documented code, and experimenting with practical evaluation setups for modern AI systems. Outside of research, I regularly practice problem-solving to sharpen my algorithmic thinking and engineering skills.
+My research asks a recurring question: **how much model capacity is actually necessary, and how can that claim be demonstrated through rigorous evidence?** I study this question through knowledge distillation, parameter-efficient fine-tuning, quantization, controlled benchmarking, ablation studies, leakage prevention, and reproducible experimentation.
+
+My current work includes:
+
+- Distilling BERT into a **29M-parameter student model**, achieving a **3.8× parameter reduction** while retaining competitive task performance.
+- Fine-tuning a **7B-parameter LLM under constrained VRAM** using 4-bit quantization, QLoRA, adaptive rank scheduling, gradient checkpointing, and controlled compression strategies.
+- Comparing graph and hypergraph representations for protein-complex recovery across **nine interaction datasets** under strict leakage control.
+- Conducting interdisciplinary research in computational biology, sustainable AI, software security, and digital phenotyping.
+
+I value research that is **reproducible, compute-aware, statistically grounded, and transparent about the trade-off between efficiency and predictive quality**.
 
 <div align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,numpy,jupyter,matplotlib,scikitlearn,pytorch,tensorflow,opencv,git,github,linux&perline=12" />
@@ -13,152 +23,268 @@ My work focuses on building AI systems that are **efficient, secure, and interpr
   <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface,langchain,llamaindex,pinecone,qdrant,ollama,chatgpt&perline=12" />
 </div>
 
+---
 
 ## 🎓 Education
 
-**[North South University](https://www.northsouth.edu)**, Dhaka, Bangladesh  
+### [North South University](https://www.northsouth.edu), Dhaka, Bangladesh
 
-- **M.S. in Computer Science and Engineering**  
-  _July 2024 – Present_
+**M.S. in Computer Science and Engineering**  
+*July 2024 – Present*
 
-- **B.S. in Computer Science and Engineering**  
-  _May 2019 – June 2023_   
-  _Distinction: Cum Laude_
+- GPA: **3.55/4.00**; 24 of 30 credits completed.
+- Supervisor: **Dr. Mohammad Ashrafuzzaman Khan**.
+- Thesis: **Ultra-Efficient Fine-Tuning of 7B-Parameter Large Language Models under Constrained VRAM using Dynamic Progressive Compression and Adaptive Stride Training**.
 
-## 💼 Working Experience
+**B.S. in Computer Science and Engineering**  
+*May 2019 – June 2023*
 
-**Teaching Assistant**  
-*North South University, Dhaka, Bangladesh*  
-_December 2022 – October 2023_
+- GPA: **3.53/4.00**.
+- Graduated **Cum Laude**.
+- Thesis: **BERT Knowledge Distillation for NLP Tasks**, later extended into a 2025 PLOS ONE article.
 
-- Assisted professors in course preparation, conducted tutorials, and provided academic support.  
-- Graded assignments, held office hours, and contributed to curriculum development initiatives.
+**Relevant graduate coursework:** Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Advanced Algorithms, Graph Theory, Digital Image Processing, Computer Security, Probability and Statistics, Databases, Software Engineering, and Advanced VLSI Design.
 
-## 🏢 Industry Experience
+---
 
-**MindriftAi** — *IT Operations & Support / AI Pilot Task Delivery (General & Vibe Coding)*  
-- Designed and validated evaluation scenarios for autonomous AI agents.  
-- Ensured tests were logically sound, realistic, and aligned with intended agent behaviors.  
-- Improved agent/model reliability through prompt refinement, curated training examples, and evaluation-driven iteration.
+## 🔬 Research Experience
 
+### M.S. Thesis Researcher
+**Department of Electrical and Computer Engineering, North South University**  
+*2024 – Present*
 
-## 📝 Puiblications
+**Ultra-Efficient Fine-Tuning of 7B-Parameter LLMs under Constrained VRAM**
 
-- **Larger models yield better results? Streamlined severity classification of ADHD-related concerns using BERT-based knowledge distillation**  - [![Model Card](https://img.shields.io/badge/model-LastBERT-blue)](https://huggingface.co/Peraboom/LastBERT)
-  *Exploring Knowledge Distillation for BERT-Based Models*: This project aims to create a smaller, efficient language model, `LastBERT`, using BERT-based knowledge distillation techniques. Our model, with only 29M parameters, retains competitive performance while being lightweight and faster. [LastBERT](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315829)
+- Built a memory-efficient framework for fine-tuning **Qwen2.5-7B-Instruct** on a single consumer-class GPU.
+- Combined **4-bit quantized loading, QLoRA, gradient checkpointing, adaptive rank scheduling with SVD warm-start, gradient-noise-gated control, and GPU isolation**.
+- Conducted **27 controlled experiments** measuring model quality, peak GPU memory, wall-clock runtime, convergence stability, and sensitivity to the compression schedule.
+- Used ablation studies to determine which components produced meaningful gains and which were redundant.
+- Engineered a reproducible experimentation pipeline with pinned environments, controlled random seeds, configuration logging, and per-experiment result tracking.
 
-- **Strengthening False Information Propagation Detection: Leveraging SVM and Sophisticated Text Vectorization Techniques in Comparison to BERT**  
-  *Leveraging SVM and Sophisticated Text Vectorization*: This study evaluates the effectiveness of traditional SVM classifiers with advanced vectorization techniques for fake news detection, challenging the necessity of larger transformer models like BERT in certain text classification scenarios.  [FakeNews Detection](https://ieeexplore.ieee.org/document/11171942)
+### Research Collaborator — Efficient NLP Group
+**North South University**  
+*2023 – Present*
 
+- Conduct research with **Dr. Mohammad Ashrafuzzaman Khan** on knowledge distillation, efficient NLP, experimental validation, and scientific writing.
+- Contributed to two peer-reviewed papers covering transformer compression and computationally efficient misinformation detection.
+- Participated across the research lifecycle, including problem formulation, experiment design, statistical validation, visualization, manuscript preparation, and camera-ready submission.
 
-## 🚧 Ongoing Projects
-![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+---
 
-- **GraB-QLoRA (2025–ongoing) — Private Repository**: Gradient-aware, quantized LoRA framework that unifies adaptive block-wise quantization, L₀-regularized sparsity, and low-rank updates to fine-tune 7B-scale LLMs on commodity GPUs; targets up to ~70% VRAM reduction with near-baseline accuracy across NLP, vision-language, and multilingual tasks.  
-- **Uncovering Higher-Order Functional Modules: Graph vs. Hypergraph Clustering (2024–2025)**: Investigates graph and hypergraph community detection/clustering techniques to uncover higher-order functional relationships between genes, supporting computational biology research.  
-- **Hyperspectral Image Reconstruction using PCA & Residual U-Net**: Training a Residual U-Net with spectral normalization to reconstruct full-spectrum HSIs  
-- **Vision Transformers for Medical Imaging**: Classifying bone fractures accurately with advanced Transformer architectures  
+## 📝 Publications and Preprints
 
-## 🚀 Noteable Projects
+### 1. Larger Models Yield Better Results? Streamlined Severity Classification of ADHD-Related Concerns Using BERT-Based Knowledge Distillation
 
-### **[Object Detection using YOLOv3](https://github.com/donnowhattodo/ODA_YOLOv3)**
-- Developed an object detection system using YOLOv3 and YOLOv4 models, trained on the COCO dataset with pre-trained COCO weights.  
-- Achieved real-time detection of objects in images and videos, identifying up to 80 distinct classes.
+**Ahmed Akib Jawad Karim, Kazi Hafiz Md. Asad, and Md. Golam Rabiul Alam**  
+*PLOS ONE, 20(2), e0315829, 2025 — Q1 Journal*
 
-### **[Fake News Detection using SVM with Kernel Trick](https://github.com/donnowhattodo/SVMFakeNews)**
-- Implemented a fake news detection system using Support Vector Machines (SVM) and experimented with various kernel tricks to improve classification accuracy.  
-- Analyzed the impact of different kernels on SVM performance, achieving robust results for detecting fake news.
+[Journal Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315829) · [LastBERT Model Card](https://huggingface.co/Peraboom/LastBERT)
 
+- Introduced **LastBERT**, a 29M-parameter student distilled from BERT-base with a **3.8× reduction in parameter count**.
+- Evaluated the model across GLUE tasks and ADHD concern-severity classification using social-media text.
+- Led formal analysis, validation, and visualization supporting the paper's central argument that scale is not always a prerequisite for task competence.
 
-### **[Hyperspectral Image Reconstruction using PCA & Residual U-Net](https://github.com/donnowhattodo/HSI_reconstruction)**
-Built a complete pipeline for hyperspectral image (HSI) reconstruction using dimensionality reduction and deep learning.
--  Applied global PCA to reduce 31 spectral bands to 3 principal components.
--  Trained a Residual U-Net with spectral normalization to reconstruct full-spectrum HSIs.
--  Evaluated using PSNR, SSIM, and SAM on benchmark datasets (CZ_hsdb & Indian Pines).
+### 2. Strengthening False Information Propagation Detection: Leveraging SVM and Sophisticated Text Vectorization Techniques in Comparison to BERT
 
+**Ahmed Akib Jawad Karim, Kazi Hafiz Md. Asad, and Aznur Azam**  
+*2025 IEEE International Conference on Quantum Photonics, Artificial Intelligence, and Networking (QPAIN), pp. 1–6*
 
-### **[Classification on Stack Overflow Questions](https://github.com/donnowhattodo/classification-on-stackOverflowQuestion)**
-- Trained a text classification model on a dataset of 60,000 Stack Overflow questions from 2016 to 2020.  
-- Developed a multi-class classifier to categorize questions into three classes: High Quality (HQ), Low Quality with Community Edits (LQ_EDIT), and Low Quality Closed (LQ_CLOSE), supporting efficient content moderation and quality assessment.
+[IEEE Xplore](https://ieeexplore.ieee.org/document/11171942)
 
-### **[RoBERTa Knowledge Distillation](https://github.com/donnowhattodo/DistillationOFRoberta)**
-- Fine-tuned custom RoBERTa models trained on large wiki text datasets for various NLP tasks, including Sentiment Analysis, MRPC, and CoLA.  
-- Demonstrated versatility in applying RoBERTa to diverse natural language processing applications.
+- Benchmarked BERT against SVM classifiers using **TF-IDF, Word2Vec, and bag-of-words representations** under matched resource budgets.
+- Demonstrated that a carefully specified classical pipeline can approach transformer-level performance while requiring substantially less computation.
+- Emphasized resource-aware model selection for low-resource deployment settings.
 
-### **[Aid-NSU (Social Media Platform)](https://github.com/donnowhattodo/Aid-NSU)**
-- Developed Aid-NSU, a Django-based social platform for North South University students, enabling content sharing, opinion expression, and assistance on various topics in a supportive campus environment.  
-- Implemented features such as real-time comments and chat to foster instant communication and collaboration (Note: This platform was not released).
+### 3. When Does Higher-Order Representation Improve Protein-Complex Recovery? A Leakage-Controlled, Matched-*k* Comparison of Graph and Penalized Hypergraph Spectral Clustering
 
-### **[Image Classification Using Vision Transformer (ViT)](https://github.com/donnowhattodo/Bone_fracture_ViT-)**
-- Developed a deep learning model using the Vision Transformer (ViT) architecture for classifying medical X-ray images.  
-- Implemented data preprocessing, model training, and validation, achieving high accuracy in distinguishing between positive and negative cases.  
-- Utilized the MURA dataset and improved performance through transfer learning with the ViT model.
+**Kazi Hafiz Md. Asad, Rafi Majid, Md. Tanjeelur Rahman Labib, and Ahsanur Rahman**  
+*Preprint under review, 2026 — First Author*
 
+- Designed and implemented a leakage-free benchmark across **nine IntAct MITAB datasets** with held-out evaluation.
+- Compared graph and penalized hypergraph spectral clustering using matched-*k* evaluation, significance testing, null models, and Gene Ontology enrichment.
+- Characterized the empirical conditions under which higher-order incidence structure improves protein-complex recovery over pairwise graph projection.
+
+---
+
+## 📚 Manuscripts and Reviews in Preparation
+
+### Sustainable Intelligence: Environmental Trade-offs of Cloud-Based Machine Learning
+
+- Conducting a **PRISMA-guided critical review** of energy, carbon, water, and hardware-lifecycle impacts across model training, inference, and data-center operation.
+- Examining inconsistencies in environmental measurement and reporting.
+- Assessing mitigation strategies including carbon-aware scheduling, algorithmic efficiency, efficient hardware use, and low-carbon deployment.
+
+### Naturalistic Behavioural Prognosis in Autistic Children
+
+- Synthesizing longitudinal evidence from naturalistic audio, video, wearable, and behavioral data used to forecast language and adaptive-functioning outcomes.
+- Identifying limitations in external validation, uncertainty quantification, fairness, clinical utility, and cross-population generalization.
+- Developing a research roadmap for trustworthy digital phenotyping and developmental forecasting.
+
+---
+
+## 🚧 Current Research Projects
+
+### Ultra-Efficient LLM Adaptation under Constrained VRAM
+
+- Investigating dynamic progressive compression and adaptive training strategies for 7B-scale language models.
+- Evaluating the efficiency-quality trade-off through controlled experiments, ablations, memory profiling, and convergence analysis.
+- Primary methods include **QLoRA, 4-bit quantization, adaptive low-rank updates, gradient checkpointing, and reproducible GPU benchmarking**.
+
+### Graph vs. Hypergraph Protein-Complex Recovery
+
+- Modeling multi-protein experimental interactions as both pairwise co-complex graphs and incidence-based hypergraphs.
+- Developing and evaluating a tunable penalized hypergraph Laplacian.
+- Testing whether higher-order representations provide measurable benefits under leakage-controlled and statistically matched conditions.
+
+### Automated Vulnerable-Code Detection with CodeBERT and Distillation
+
+- Building a CodeBERT-based pipeline for classifying secure and vulnerable source-code snippets using the **DiverseVul** dataset.
+- Exploring knowledge distillation to reduce inference cost for practical code-scanning workflows.
+- Studying how model efficiency affects software-security performance and deployment feasibility.
+
+---
+
+## 🚀 Selected Technical Projects
+
+### [Stack Overflow Question Quality Classification](https://github.com/donnowhattodo/classification-on-stackOverflowQuestion)
+
+- Built an end-to-end multi-class NLP pipeline using **60,000 Stack Overflow questions**.
+- Classified questions into High Quality, Low Quality with Community Edits, and Low Quality Closed categories.
+- Applied text preprocessing, feature engineering, model training, and comparative evaluation for content-quality assessment.
+
+### [Bone Fracture Detection using Vision Transformer](https://github.com/donnowhattodo/Bone_fracture_ViT-)
+
+- Fine-tuned a pre-trained **ViT-B/16** model for binary fracture detection using the **MURA v1.1** radiographic dataset.
+- Evaluated model generalization using **5-fold cross-validation**.
+- Implemented data preprocessing, transfer learning, training, and validation workflows.
+
+### [Fake-News Detection with SVM Kernels](https://github.com/donnowhattodo/SVMFakeNews)
+
+- Compared linear and nonlinear SVM kernels across multiple text representations.
+- Reported accuracy and F1-score to distinguish predictive performance from computational cost.
+- Explored efficient classical alternatives to transformer-based text classification.
+
+### [RoBERTa Knowledge Distillation](https://github.com/donnowhattodo/DistillationOFRoberta)
+
+- Fine-tuned RoBERTa-based models for sentiment analysis, MRPC, and CoLA.
+- Explored teacher-student training strategies for reducing model size while maintaining task performance.
+- Developed reusable training and evaluation components for efficient transformer experimentation.
+
+### [Hyperspectral Image Reconstruction using PCA and Residual U-Net](https://github.com/donnowhattodo/HSI_reconstruction)
+
+- Developed a hyperspectral image reconstruction pipeline using PCA and a Residual U-Net with spectral normalization.
+- Reduced 31 spectral bands to three principal components and reconstructed the original spectral representation.
+- Evaluated reconstruction quality using PSNR, SSIM, and Spectral Angle Mapper.
+
+### [Object Detection using YOLOv3 and YOLOv4](https://github.com/donnowhattodo/ODA_YOLOv3)
+
+- Developed an object-detection pipeline using pretrained YOLOv3 and YOLOv4 models on the COCO label space.
+- Implemented image and video inference for real-time detection across 80 object categories.
+
+### [Aid-NSU — Django Platform Prototype](https://github.com/donnowhattodo/Aid-NSU)
+
+- Developed a moderated campus social-platform prototype using Django.
+- Implemented authentication, posting, real-time comments, and chat functionality.
+- The application remained a prototype and was not publicly released.
+
+---
+
+## 💼 Professional and Teaching Experience
+
+### AI Evaluation and Pilot Task Contributor
+**MindriftAI — Remote**  
+*November 2025 – Present*
+
+- Design, review, and validate evaluation scenarios for autonomous AI agents.
+- Assess logical soundness, behavioral alignment, realism, and policy adherence in multi-step agent workflows.
+- Improve model behavior through prompt refinement, curated exemplars, structured feedback, and iterative validation.
+
+### Teaching Assistant
+**North South University, Dhaka, Bangladesh**  
+*December 2022 – October 2023*
+
+- Conducted tutorials and office hours for undergraduate computer-science courses.
+- Prepared course materials, designed assignments, graded student work, and provided detailed feedback.
+- Explained technical concepts to mixed-ability cohorts and contributed to curriculum-development activities.
+
+---
 
 ## 🧠 Research Interests
 
-My research interests revolve around **Natural Language Processing (NLP)** and **Knowledge Distillation**, with a commitment to applying advanced **Machine learning** techniques to solve real-world challenges. Key areas of focus include:
-- **Knowledge Distillation for Efficient NLP Models**: Investigating methods to compress large language models, such as RoBERTa, into smaller and faster variants while retaining their performance. My project on *RoBERTa Knowledge Distillation* and also my paper regarding *lastBERT* highlights the application of these techniques to tasks like sentiment analysis and textual entailment.  
-- **Automated Code Vulnerability Detection**: Leveraging NLP techniques to detect vulnerabilities in open-source code repositories, ensuring software security and reliability. This involves applying tokenization, embedding strategies, and transformer models to understand and analyze code semantics.  
-- **Text Classification and Quality Assessment**: Creating systems to classify and evaluate textual data, as demonstrated in my project *Classification on Stack Overflow Questions*, where multi-class classifiers support content moderation and quality assurance.  
-- **Transformer Architectures in NLP**: Fine-tuning state-of-the-art models like BERT, codeBERT for diverse applications, while exploring innovative approaches to optimize their performance and scalability.  
-- **Interdisciplinary Applications of NLP**: Combining NLP with other domains to address real-world problems, such as applying *Aid-NSU* for academic collaboration and integrating NLP with medical imaging workflows for enhanced diagnostics.
+- **Efficient and Trustworthy NLP**
+- **Large Language Model Compression and Adaptation**
+- **Knowledge Distillation, Quantization, Pruning, and LoRA/QLoRA**
+- **Parameter-Efficient and Compute-Aware Machine Learning**
+- **Higher-Order, Graph, and Hypergraph Representation Learning**
+- **Automated Software-Vulnerability Detection**
+- **Computational Biology and Digital Phenotyping**
+- **Sustainable AI and Environmental Evaluation**
+- **Multimodal and Longitudinal Modeling**
 
-I am particularly passionate about utilizing NLP to enhance software security, improve computational efficiency, and solve complex interdisciplinary problems.
+---
 
+## 🛠️ Technical Skills
 
+**Programming:** Python, SQL, PHP, object-oriented programming, data structures, algorithms, and scripting.  
 
-## 🎯 Always Learning
+**Machine Learning and NLP:** PyTorch, Hugging Face Transformers, scikit-learn, spaCy, Pandas, NumPy, SciPy, TensorFlow, JAX/Flax (basic), BERT, RoBERTa, GPT-family models, Mistral, Qwen, classification, regression, segmentation, RAG, LangChain, and vector databases.  
 
-- Diving deep into NLP and fine-tuning language models for specialized tasks
-- Mastering TensorFlow and PyTorch to push the boundaries of deep learning in NLP
+**Model Efficiency:** Knowledge distillation, 4-bit quantization, LoRA/QLoRA, gradient checkpointing, adaptive rank scheduling, pruning, efficient evaluation, and GPU-memory profiling.  
 
-## 🌐 Let's Connect
+**Research Methods:** Controlled baselines, ablation studies, matched comparisons, leakage prevention, significance testing, null models, F1/ROC-AUC evaluation, cross-validation, and PRISMA-guided literature synthesis.  
 
-I’m excited to meet others in the field! Let’s discuss ideas, collaborate on projects, or just share tech insights:
+**Systems and Tooling:** CUDA, Linux, Git/GitHub, reproducible environments, LaTeX, n8n, Tableau, and Microsoft Office.
 
-- **LinkedIn**: [kaziasadcse](https://linkedin.com/in/kaziasadcse)
-- **Twitter (X)**: [@ImKaziAsad](https://twitter.com/ImKaziAsad)
-- **GitHub**: [donnowhattodo](https://github.com/donnowhattodo)
-- **Google Scholar**: [Kazi Hafiz Md Asad](https://scholar.google.com/citations?user=24zDLJMAAAAJ&hl=en)
-- **LeetCode**: [ImMasterPutin](https://leetcode.com/u/ImMasterPutin/)
-- **Deep-ML**: [Kazi Asad](https://www.deep-ml.com/profile/7ysd47LWjIM21Ng2NGWvlmxS0Du1)
+---
 
+## 🏅 Honours and Academic Development
 
-📬 You can also reach me at [kazi.asad@northsouth.edu](mailto:kazi.asad@northsouth.edu).
+- **Cum Laude**, B.S. in Computer Science and Engineering, North South University, 2023.
+- Active on **LeetCode** and **Deep-ML** for algorithmic problem solving, implementation practice, and applied machine-learning exercises.
+- Experienced in independent experimental design, reproducible engineering, scientific visualization, and first-author manuscript preparation.
 
-## 🤝 Open for Collaboration
+---
 
-Looking to work on impactful **NLP, ML, deep learning, or LLM/RAG** projects?
-I’m always open to exploring innovative ideas and collaborating on exciting ventures.
+## 🤝 Open to Research Collaboration
+
+I am interested in collaborating on research involving:
+
+- Efficient and trustworthy NLP
+- LLM compression and parameter-efficient fine-tuning
+- AI for software engineering and cybersecurity
+- Graph and hypergraph machine learning
+- Computational biology and healthcare AI
+- Sustainable and resource-aware machine learning
+
+I am especially interested in projects that combine **methodological rigor, reproducible implementation, controlled evaluation, and practical computational constraints**.
+
+---
+
+## 🌐 Connect with Me
+
+- **Email:** [kazi.asad@northsouth.edu](mailto:kazi.asad@northsouth.edu)
+- **LinkedIn:** [kaziasadcse](https://linkedin.com/in/kaziasadcse)
+- **GitHub:** [donnowhattodo](https://github.com/donnowhattodo)
+- **Google Scholar:** [Kazi Hafiz Md. Asad](https://scholar.google.com/citations?user=24zDLJMAAAAJ&hl=en)
+- **Twitter/X:** [@ImKaziAsad](https://twitter.com/ImKaziAsad)
+- **LeetCode:** [ImMasterPutin](https://leetcode.com/u/ImMasterPutin/)
+- **Deep-ML:** [Kazi Asad](https://www.deep-ml.com/profile/7ysd47LWjIM21Ng2NGWvlmxS0Du1)
+
+---
 
 <div align="center">
-
-  <!-- Clean summary banner -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donnowhattodo&theme=tokyonight" />
-
   <br/><br/>
-
-  <!-- Main visuals (no glass) -->
   <a href="https://github-profile-svg.vercel.app/api/profile?username=donnowhattodo&mode=terminal&theme=dark">
     <img src="https://github-profile-svg.vercel.app/api/profile?username=donnowhattodo&mode=terminal&theme=dark" height="170" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=donnowhattodo&theme=tokyonight" height="170" />
-
   <br/><br/>
-
-  <!-- Small badges row -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=donnowhattodo.donnowhattodo" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/donnowhattodo/somerepo" />
-
+  <img src="https://img.shields.io/badge/Research-Efficient%20%26%20Trustworthy%20AI-blue" />
 </div>
-
 
 ---
 
-## 🌟 Fun Facts
-
-- **Animeholic** 🎥: Anime inspires me with its unique storytelling and art, sparking creativity in unexpected ways.
-
-
+*Last updated: August 2026*

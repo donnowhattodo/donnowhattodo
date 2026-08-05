@@ -115,7 +115,7 @@ I value research that is **reproducible, compute-aware, statistically grounded, 
 - Examining inconsistencies in environmental measurement and reporting.
 - Assessing mitigation strategies including carbon-aware scheduling, algorithmic efficiency, efficient hardware use, and low-carbon deployment.
 
-### Naturalistic Behavioural Prognosis in Autistic Children
+### Naturalistic Behavioral Prognosis in Autistic Children: Longitudinal Evidence, Digital Phenotyping, and a Roadmap for Predicting Language and Adaptive Functioning
 
 - Synthesizing longitudinal evidence from naturalistic audio, video, wearable, and behavioral data used to forecast language and adaptive-functioning outcomes.
 - Identifying limitations in external validation, uncertainty quantification, fairness, clinical utility, and cross-population generalization.

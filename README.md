@@ -182,7 +182,7 @@ I value research that is **reproducible, compute-aware, statistically grounded, 
 - Developed an object-detection pipeline using pretrained YOLOv3 and YOLOv4 models on the COCO label space.
 - Implemented image and video inference for real-time detection across 80 object categories.
 
-### [Aid-NSU — Django Platform Prototype](https://github.com/donnowhattodo/Aid-NSU)
+### [Aid-NSU : Django Platform Prototype](https://github.com/donnowhattodo/Aid-NSU)
 
 - Developed a moderated campus social-platform prototype using Django.
 - Implemented authentication, posting, real-time comments, and chat functionality.
@@ -193,7 +193,7 @@ I value research that is **reproducible, compute-aware, statistically grounded, 
 ## 💼 Professional and Teaching Experience
 
 ### AI Evaluation and Pilot Task Contributor
-**MindriftAI — Remote**  
+**MindriftAI : Remote**  
 *November 2025 – Present*
 
 - Design, review, and validate evaluation scenarios for autonomous AI agents.

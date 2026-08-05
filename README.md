@@ -61,7 +61,7 @@ I value research that is **reproducible, compute-aware, statistically grounded, 
 - Used ablation studies to determine which components produced meaningful gains and which were redundant.
 - Engineered a reproducible experimentation pipeline with pinned environments, controlled random seeds, configuration logging, and per-experiment result tracking.
 
-### Research Collaborator — Efficient NLP Group
+### Research Collaborator : Efficient NLP Group
 **North South University**  
 *2023 – Present*
 
@@ -76,7 +76,7 @@ I value research that is **reproducible, compute-aware, statistically grounded, 
 ### 1. Larger Models Yield Better Results? Streamlined Severity Classification of ADHD-Related Concerns Using BERT-Based Knowledge Distillation
 
 **Ahmed Akib Jawad Karim, Kazi Hafiz Md. Asad, and Md. Golam Rabiul Alam**  
-*PLOS ONE, 20(2), e0315829, 2025 — Q1 Journal*
+*PLOS ONE, 20(2), e0315829, 2025 : Q1 Journal*
 
 [Journal Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315829) · [LastBERT Model Card](https://huggingface.co/Peraboom/LastBERT)
 
@@ -98,7 +98,8 @@ I value research that is **reproducible, compute-aware, statistically grounded, 
 ### 3. When Does Higher-Order Representation Improve Protein-Complex Recovery? A Leakage-Controlled, Matched-*k* Comparison of Graph and Penalized Hypergraph Spectral Clustering
 
 **Kazi Hafiz Md. Asad, Rafi Majid, Md. Tanjeelur Rahman Labib, and Ahsanur Rahman**  
-*Preprint under review, 2026 — First Author*
+*Preprint under review, 2026 : First Author*  
+**DOI:** https://doi.org/10.5281/zenodo.21651589
 
 - Designed and implemented a leakage-free benchmark across **nine IntAct MITAB datasets** with held-out evaluation.
 - Compared graph and penalized hypergraph spectral clustering using matched-*k* evaluation, significance testing, null models, and Gene Ontology enrichment.

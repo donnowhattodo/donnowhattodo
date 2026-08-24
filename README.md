@@ -98,19 +98,39 @@ Thesis:
 
 ## Larger Models Yield Better Results? Streamlined Severity Classification of ADHD-Related Concerns Using BERT-Based Knowledge Distillation
 
-**PLOS ONE, 2025**
+**PLOS ONE, 20(2), e0315829, 2025**
 
-- Introduced LastBERT, a 29M-parameter distilled BERT student model.
-- Achieved 3.8× parameter reduction while maintaining competitive performance.
+🔗 [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315829) · [LastBERT Model](https://huggingface.co/Peraboom/LastBERT)
+
+- Introduced **LastBERT**, a 29M-parameter student model distilled from BERT-base.
+- Achieved **3.8× parameter reduction** while maintaining competitive performance across GLUE benchmarks and ADHD concern severity classification.
+- Demonstrated that carefully designed compact models can achieve strong performance without relying solely on larger architectures.
 
 ---
 
-## Strengthening False Information Propagation Detection Using SVM and BERT
+## Strengthening False Information Propagation Detection: Leveraging SVM and Sophisticated Text Vectorization Techniques in Comparison to BERT
 
-**IEEE QPAIN 2025**
+**IEEE International Conference on Quantum Photonics, Artificial Intelligence, and Networking (QPAIN), 2025**
 
-- Compared classical machine learning pipelines with transformer-based models.
-- Studied accuracy-computation trade-offs for efficient NLP systems.
+🔗 [IEEE Xplore](https://ieeexplore.ieee.org/document/11171942)
+
+- Compared classical machine learning approaches with transformer-based models for misinformation detection.
+- Evaluated SVM classifiers using TF-IDF, Word2Vec, and bag-of-words representations against BERT-based approaches.
+- Analysed predictive performance versus computational cost for resource-efficient NLP deployment.
+
+---
+
+# Preprints & Manuscripts
+
+## When Does Higher-Order Representation Improve Protein-Complex Recovery? A Leakage-Controlled, Matched-*k* Comparison of Graph and Penalized Hypergraph Spectral Clustering
+
+**Preprint, 2026**
+
+🔗 [Zenodo Preprint](https://doi.org/10.5281/zenodo.21651589)
+
+- Developed a leakage-controlled benchmark comparing graph and hypergraph representations for protein-complex recovery.
+- Evaluated nine IntAct MITAB datasets using matched-*k* comparisons, statistical testing, null models, and Gene Ontology enrichment.
+- Investigated when higher-order biological interactions provide measurable advantages over conventional graph projections.
 
 ---
 

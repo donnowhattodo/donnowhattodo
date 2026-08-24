@@ -1,225 +1,179 @@
 # Hi, I'm Kazi Hafiz Md. Asad 👋
 
-```{=html}
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Efficient+and+Trustworthy+AI+Research;LLM+Compression+%7C+Parameter-Efficient+Fine-Tuning;NLP+%7C+Knowledge+Distillation+%7C+Higher-Order+ML;Reproducible+Machine+Learning+Experiments&center=true&width=850&height=50)
+
+</div>
+
 <p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00A8FF&center=true&vCenter=true&width=850&lines=Efficient+%26+Trustworthy+AI+Research;Large+Language+Model+Compression;Knowledge+Distillation+%7C+NLP+Systems;Higher-Order+Representation+Learning;Reproducible+AI+Research" />`{=html}
-
-```{=html}
+M.S. Researcher in Computer Science and Engineering<br>
+North South University, Bangladesh
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-# 🧠 Research Identity
+## Research Identity
 
-I am an **M.S. Researcher in Computer Science and Engineering at North
-South University**, working at the intersection of:
+I am an M.S. researcher working at the intersection of **efficient NLP, large language model compression, trustworthy AI, and higher-order machine learning**.
 
--   Efficient Natural Language Processing
--   Large Language Model Adaptation
--   Model Compression and Distillation
--   Trustworthy and Reliable AI
--   Graph and Hypergraph Representation Learning
+My research focuses on building machine learning systems that achieve strong performance while reducing computational cost, memory requirements, and reliability risks.
 
-My research asks:
+My current interests include:
 
-> **How can we build AI systems that are smaller, faster, more reliable,
-> and scientifically validated?**
+- Efficient and trustworthy NLP
+- LLM compression and parameter-efficient fine-tuning
+- Knowledge distillation
+- Quantization and memory-efficient training
+- Graph and hypergraph representation learning
+- AI for software security
+- Multimodal healthcare AI
+- Sustainable AI
 
-I investigate this through:
+---
 
--   Parameter-efficient fine-tuning
--   Quantization and memory optimization
--   Knowledge distillation
--   Controlled benchmarking
--   Ablation-driven analysis
--   Leakage-resistant evaluation
--   Reproducible research pipelines
+# Research Highlights
 
-------------------------------------------------------------------------
+## Ultra-Efficient LLM Fine-Tuning under Constrained VRAM
 
-# 🔬 Current Research Directions
+**Qwen2.5-7B-Instruct**
 
-## 🚀 Efficient Large Language Models
+- Investigated memory-efficient fine-tuning using 4-bit quantization, QLoRA, adaptive low-rank optimization, and gradient-aware strategies.
+- Conducted 27 controlled experiments analysing quality, GPU memory, runtime, and convergence stability.
+- Developed layer-streamed QLoRA optimization achieving 63% peak GPU memory reduction while maintaining comparable performance.
 
-Research focus: - QLoRA and parameter-efficient adaptation - Adaptive
-low-rank optimization - Memory-efficient LLM training -
-Compression-quality trade-offs
+---
 
-**Key Result**
+## TRUST-VL-CXR: Reliable Vision-Language Monitoring for Chest X-Ray Alignment
 
-> Reduced peak GPU memory by **63%** through system-level optimization
-> while maintaining comparable model quality.
+- Developed a decoupled reliability monitoring framework for medical vision-language models.
+- Combined DenseNet-121 and BiomedBERT representations with an independent compatibility monitor.
+- Achieved 0.7666 AUROC for hard image-report conflict detection under patient-disjoint evaluation.
 
-------------------------------------------------------------------------
+---
 
-## 🛡️ TRUST-VL-CXR
+## CoGS-KD: Confidence-Gated Structural-Contrastive Knowledge Distillation
 
-### Reliable Vision-Language Monitoring for Chest X-Ray Alignment
+- Developing efficient code vulnerability detection models through knowledge distillation.
+- Exploring CodeBERT-family teachers, structural learning, confidence gating, and contrastive objectives.
+- Building reproducible experiments on PrimeVul for security-focused language models.
 
-Research focus: - Multimodal reliability estimation - Image-report
-mismatch detection - Calibration analysis - Robustness under
-distribution shifts
+---
 
-**Key Result**
+## Graph vs Hypergraph Protein-Complex Recovery
 
-> Achieved **0.7666 AUROC** for detecting hard image-report conflicts
-> using an independent reliability monitor.
+- Studying higher-order biological representation learning.
+- Developed leakage-controlled comparisons between graph and hypergraph spectral clustering.
+- Evaluated biological coherence using statistical validation and enrichment analysis.
 
-------------------------------------------------------------------------
+---
 
-## 🔐 CoGS-KD
-
-### Confidence-Gated Structural-Contrastive Knowledge Distillation
-
-Research focus: - Efficient vulnerability detection - Code language
-models - Security-aware representation learning - Knowledge distillation
-
-------------------------------------------------------------------------
-
-## 🧬 Higher-Order Representation Learning
-
-Researching when higher-order structures provide advantages over
-traditional graph representations.
-
-Focus: - Graph vs hypergraph learning - Protein-complex recovery -
-Leakage-controlled evaluation - Statistical validation
-
-------------------------------------------------------------------------
-
-# 📚 Research Highlights
-
-## LastBERT: Efficient Transformer Compression
-
-**PLOS ONE \| 2025**
-
--   Developed a 29M parameter student model distilled from BERT-base.
--   Achieved approximately **3.8× parameter reduction**.
--   Studied efficient alternatives to large-scale transformer
-    deployment.
-
-------------------------------------------------------------------------
-
-## Resource-Efficient Text Classification
-
-**IEEE QPAIN \| 2025**
-
--   Compared transformer models with classical machine learning
-    pipelines.
--   Evaluated TF-IDF, Word2Vec, SVM, and BERT under computational
-    constraints.
-
-------------------------------------------------------------------------
-
-# 🧪 Research Philosophy
-
-    Novel Idea
-         ↓
-    Experimental Design
-         ↓
-    Strong Baselines
-         ↓
-    Ablation Studies
-         ↓
-    Statistical Validation
-         ↓
-    Reproducible Evidence
-
-A model is valuable not only because it is larger, but because we
-understand:
-
--   why it works,
--   when it fails,
--   how much computation it requires,
--   and whether improvements are real.
-
-------------------------------------------------------------------------
-
-# 🛠 Research Toolkit
-
-Machine Learning: - PyTorch - Hugging Face Transformers - scikit-learn -
-TensorFlow
-
-NLP / LLM: - BERT - RoBERTa - Qwen - Mistral - GPT-family models - RAG
-systems
-
-Efficient AI: - QLoRA - LoRA - Quantization - Knowledge Distillation -
-GPU Memory Profiling
-
-Research Methods: - Ablation studies - Controlled experiments -
-Statistical testing - Reproducible pipelines
-
-------------------------------------------------------------------------
-
-# 📂 Selected Research Code
-
-  Project                     Area
-  --------------------------- ----------------------------
-  QStride-AdaStride           Efficient LLM Fine-tuning
-  TRUST-VL-CXR                Medical Vision-Language AI
-  CoGS-KD                     Secure Code Intelligence
-  Graph-Hypergraph Recovery   Computational Biology
-  LastBERT                    Knowledge Distillation
-
-------------------------------------------------------------------------
-
-# 🎓 Education
+# Education
 
 ## North South University
 
-**M.S. in Computer Science and Engineering**
+### M.S. in Computer Science and Engineering
+**2024 - Present**
 
-2024 - Present
+GPA: **3.55/4.00**
 
-Thesis: **Ultra-Efficient Fine-Tuning of 7B-Parameter Large Language
-Models under Constrained VRAM**
+Thesis:
+**Ultra-Efficient Fine-Tuning of 7B-Parameter Large Language Models under Constrained VRAM using Dynamic Progressive Compression and Adaptive Stride Training**
 
-------------------------------------------------------------------------
+---
 
-**B.S. in Computer Science and Engineering**
+### B.S. in Computer Science and Engineering
+**2019 - 2023**
 
-2019 - 2023
+GPA: **3.53/4.00**
 
--   GPA: 3.53/4.00
--   Cum Laude
+Graduated **Cum Laude**
 
-------------------------------------------------------------------------
+Thesis:
+**BERT Knowledge Distillation for NLP Tasks**
 
-# 🤝 Open to Collaboration
+---
 
-Interested in:
+# Publications
 
--   Efficient foundation models
--   Trustworthy AI systems
--   LLM compression
--   Medical AI
--   Graph representation learning
--   AI security
+## Larger Models Yield Better Results? Streamlined Severity Classification of ADHD-Related Concerns Using BERT-Based Knowledge Distillation
 
-------------------------------------------------------------------------
+**PLOS ONE, 2025**
 
-# 📫 Contact
+- Introduced LastBERT, a 29M-parameter distilled BERT student model.
+- Achieved 3.8× parameter reduction while maintaining competitive performance.
 
-Email: kazi.asad@northsouth.edu
+---
+
+## Strengthening False Information Propagation Detection Using SVM and BERT
+
+**IEEE QPAIN 2025**
+
+- Compared classical machine learning pipelines with transformer-based models.
+- Studied accuracy-computation trade-offs for efficient NLP systems.
+
+---
+
+# Research Engineering
+
+Selected implementations:
+
+- QStride / AdaStride: Efficient LLM adaptation under constrained VRAM
+- TRUST-VL-CXR: Medical vision-language reliability monitoring
+- CoGS-KD: Efficient vulnerable-code detection
+- LastBERT: Lightweight transformer compression
+- Graph and hypergraph biological modelling
+
+---
+
+# Technical Toolkit
+
+### Programming
+Python, SQL, PHP, Linux, Git
+
+### Machine Learning
+PyTorch, Hugging Face Transformers, scikit-learn, TensorFlow
+
+### NLP / LLM
+BERT, RoBERTa, Qwen, GPT-family models, LoRA, QLoRA, RAG
+
+### Research Methods
+Ablation studies, controlled benchmarking, statistical testing, leakage prevention, reproducible experimentation
+
+---
+
+# Research Philosophy
+
+```
+Strong Baselines
+        +
+Controlled Experiments
+        +
+Transparent Evaluation
+        +
+Reproducible Systems
+        =
+Reliable AI Research
+```
+
+---
+
+# Connect
 
 GitHub: https://github.com/donnowhattodo
 
-Google Scholar: https://scholar.google.com/citations?user=24zDLJMAAAAJ
+Email: kazi.asad@northsouth.edu
 
-------------------------------------------------------------------------
+LinkedIn: kaziasadcse
 
-::: {align="center"}
-`<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donnowhattodo&theme=tokyonight"/>`{=html}
-:::
+Google Scholar: Kazi Hafiz Md. Asad
 
-------------------------------------------------------------------------
+---
 
-```{=html}
-<p align="center">
-```
-`<b>`{=html}Building efficient, trustworthy, and reproducible AI
-systems.`</b>`{=html}
-```{=html}
-</p>
-```
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=donnowhattodo)
+
+</div>
+
+_Last updated: August 2026_
